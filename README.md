@@ -11,6 +11,7 @@ I'm a software developer for front-end applications and system engineer with tec
 
 Some other activities..
 * Planning and setup of audio racks
+* 3D-design and construction
 * jamming with e-drums and guitar.
 
 <!--
