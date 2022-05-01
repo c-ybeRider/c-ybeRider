@@ -16,7 +16,7 @@ I'm a software developer for front-end applications and system engineer with tec
 * jamming with e-drum and guitar
 
 ### Contact me
-when you have questions or want to share some synergies, please write me an email to *c-ybeRider@outlook.de*.
+when you have questions or want to share some synergies, please write me an email.
 
 <!--
 **c-ybeRider/c-ybeRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
