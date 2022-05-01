@@ -9,10 +9,14 @@ I'm a software developer for front-end applications and system engineer with tec
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=Html5&color=2bbc8a)
 ![](https://img.shields.io/badge/Platforms-Windows-informational?style=flat&logo=windows&color=2bbc8a)
 
-Some other activities..
+### Some other activities
 * Planning and setup of audio racks
-* 3D-design and construction
-* jamming with e-drums and guitar.
+* 2D & 3D-design and construction
+* Restauration and modificaiton of electric guitars
+* jamming with e-drum and guitar
+
+### Contact me
+when you have questions or want to share some synergies, please write me an email to *c-ybeRider@outlook.de*.
 
 <!--
 **c-ybeRider/c-ybeRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
